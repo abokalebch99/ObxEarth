@@ -1,0 +1,6 @@
+owner=473205611220303882
+prefix= 1
+game=OBx Community™ | 1play
+stayinchannel=true
+songinstatus=false
+token=NTczNDgwMDQ1ODU5OTYyODgw.XMrdTA.wpAdKSNL2Or-xLMi50a7mux18K0
